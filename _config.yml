@@ -22,7 +22,7 @@ author: Asger Skovbo Petersen
 navbar-links:
   About Me: "aboutme"
   Talks: "talks"
-  CV: "cv"
+  # CV: "cv"
   # Resources:
   #   - Beautiful Jekyll: "https://beautifuljekyll.com"
   #   - Learn markdown: "https://www.markdowntutorial.com/"
